@@ -104,7 +104,7 @@ for file in og_files:
 
 ### After Organizing
 
-![After](https://raw.githubusercontent.com/Maanu-Hue/File-Organizer-Python/04040ab60df327acbe073dd5b870e19562a17b05/Screenshot%202026-04-18%20163851.png)
+![After](https://raw.githubusercontent.com/Maanu-Hue/File-Organizer-Python/a8e5bdfcd9599dfe417e08299c68a9ce7ee45ad8/Screenshot%202026-04-18%20163851.png)
 
 ---
 
